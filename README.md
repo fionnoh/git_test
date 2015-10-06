@@ -1,2 +1,3 @@
 # git_test
-Trying (g)it out
+Trying (g)it out.
+Small change.
